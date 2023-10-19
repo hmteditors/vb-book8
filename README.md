@@ -8,6 +8,25 @@ Edition of *Iliad* 8 with *scholia* in the Venetus B MS.
 
 - Book 8:  8.1-8.70 complete draft; **lacking** 8.71-8.565 beginning on page 104v (see [ICT](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_104v_105r))
 
+## How to validate
+
+
+#### Starting from the command line
+
+From a terminal open in this directory, you can start the validating dashboard with:
+
+    julia --project=dashboard dashboard/validatordashboard.jl
+
+
+(Note that in VS Code, you can use `New Terminal` from the `Terminal` menu to open a terminal in the directory you're editing.)
+
+#### Viewing the dashboard
+
+Open a browser to `http://localhost:8051`.
+
+1. Use the `Load/update data` button to load or reload the current data in your repository.  
+2. Select a page from the drop-down menu.  If you have errors or incomplete work, repeat these two steps after making your corrections.
+
 
 ## URNs: quick reference
 
