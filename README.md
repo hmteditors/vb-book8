@@ -1,12 +1,12 @@
 # Venetus B, book 8
 
-Unifying validated editions of *Iliad* 8-10 with *scholia* in the Venetus B MS.
+Edition of *Iliad* 8 with *scholia* in the Venetus B MS.
 
 ## Current coverage
 
 
 
-- Book 8:  8.1-8.70 complete draft; **lacking** 8.71-8.565 beginning on 104v ([ICT](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_104v_105r))
+- Book 8:  8.1-8.70 complete draft; **lacking** 8.71-8.565 beginning on page 104v (see [ICT](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_104v_105r))
 
 
 ## URNs: quick reference
