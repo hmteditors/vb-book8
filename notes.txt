@@ -1,0 +1,20 @@
+Pages that we've validated and verified:
+
+114r
+113v
+113r
+112v 
+112r 
+111v 
+111r 
+110v 
+110r: missing scholia 8.110r_1 through 8.11r_7 - formatting mistake - scholia matches is wrong
+109v 
+109r 
+108v 
+108r 
+107v: 8.107v_8 and 8.107v_9 are switched 
+107r
+106v 
+106r 
+105v 
