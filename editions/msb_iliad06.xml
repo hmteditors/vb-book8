@@ -18,7 +18,10 @@
   <text>
     <body>
       <div n="6">
-        <l n="1"></l>
+        <l n="title">ἀρχὴ τῆς <rs type="waw">ζ</rs> <persName n="urn:cite2:hmt:pers.v1:pers17">ὁμήρου</persName> ῥαψωδίας⁑</l>
+        <l n="1"><rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">τρώων</rs> δ' οἰώθη καὶ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">ἀχαιῶν</rs> φύλοπις αἰνή:</l>
+        <l n="2">πολλά δ' ἂρ' ἔνθα καὶ ἔνθ' ἴθυσε μάχη πεδίοιο</l>
+        <l n="3">ἀλλήλων ἰθυνομένων χαλκήρεα δοῦρα </l>
       </div>
     </body>
     </text>
